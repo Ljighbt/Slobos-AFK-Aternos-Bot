@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "villain.falixsrv.me",
-    "port": 20092,
+    "ip": "157.90.205.62",
+    "port": 28393,
     "version": "",
     "try-creative": false
   },
